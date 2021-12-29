@@ -56,7 +56,7 @@
     <PackageReference Update="MySqlConnector" Version="2.0.0"/>
     <PackageReference Update="NEST" Version="7.15.2"/>
     <PackageReference Update="Newtonsoft.Json" Version="13.0.1"/>
-    <PackageReference Update="Npgsql" Version="6.0.0"/>
+    <PackageReference Update="Npgsql" Version="6.0.2"/>
     <PackageReference Update="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.0"/>
     <PackageReference Update="Oracle.ManagedDataAccess.Core" Version="2.19.130"/>
     <PackageReference Update="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0"/>
